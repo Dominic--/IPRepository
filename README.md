@@ -1,1 +1,2 @@
-IPRepository by Dominic
+Information of GitHub:
+	Project IPRepository by Dominic
