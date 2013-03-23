@@ -1,3 +1,14 @@
+--------------------Information---------------------------
+Author: Dominic
+Mobile: 86-15901511022
+E-Mal:	linheng_mail@126.com
+Hint:	Any Question or Bug is welcome to let me know
+
+-----------------------Usage-------------------------------
+Just Type:
+	./flow.sh help
+Best Wishes~
+
 -----------------Description Of Files----------------------
 
 README.md:  					Readme file for github server;
